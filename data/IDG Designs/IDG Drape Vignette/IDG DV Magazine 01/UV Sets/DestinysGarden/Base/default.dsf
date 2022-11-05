@@ -1,0 +1,65 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/IDG%20Designs/IDG%20Drape%20Vignette/IDG%20DV%20Magazine%2001/UV%20Sets/DestinysGarden/Base/default.dsf",
+		"type" : "uv_set",
+		"contributor" : {
+			"author" : "IDG Designs",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2020-10-28T22:29:58Z"
+	},
+	"uv_set_library" : [
+		{
+			"id" : "default",
+			"name" : "default",
+			"label" : "Default UVs",
+			"vertex_count" : 8,
+			"uvs" : {
+				"count" : 16,
+				"values" : [
+					[ 0.990257, 0.01 ],
+					[ 0.7, 0.01 ],
+					[ 0.990257, 0.11 ],
+					[ 0.7, 0.11 ],
+					[ 0.000257, 0.01 ],
+					[ 0.3, 0.01 ],
+					[ 0.000257, 0.11 ],
+					[ 0.3, 0.11 ],
+					[ 0.027564, 0.32635 ],
+					[ 0.494442, 0.32635 ],
+					[ 0.494442, 0.98665 ],
+					[ 0.027564, 0.98665 ],
+					[ 0.505558, 0.32635 ],
+					[ 0.972436, 0.32635 ],
+					[ 0.972436, 0.98665 ],
+					[ 0.505558, 0.98665 ]
+				]
+			},
+			"polygon_vertex_indices" : [
+				[ 2, 0, 10 ],
+				[ 5, 0, 10 ],
+				[ 2, 1, 11 ],
+				[ 4, 2, 15 ],
+				[ 5, 2, 15 ],
+				[ 4, 3, 14 ],
+				[ 2, 4, 9 ],
+				[ 5, 4, 9 ],
+				[ 2, 5, 8 ],
+				[ 4, 6, 12 ],
+				[ 5, 6, 12 ],
+				[ 4, 7, 13 ]
+			]
+		}
+	],
+	"scene" : {
+		"uvs" : [
+			{
+				"id" : "default-1",
+				"url" : "#default"
+			}
+		]
+	}
+}
