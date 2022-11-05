@@ -1,0 +1,256 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/Props/DM/GetFramed/Lights/%21HDRI%2001.duf",
+		"type" : "preset_render_settings",
+		"contributor" : {
+			"author" : "Danie_marforno",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2019-07-19T15:52:44Z"
+	},
+	"image_library" : [
+		{
+			"id" : "DMFrmprobe.hdr",
+			"name" : "DMFrmprobe.hdr",
+			"map_gamma" : 1,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/danieNmarforno/Framed2/DMFrmprobe.hdr",
+					"label" : "DMFrmprobe.hdr"
+				}
+			]
+		}
+	],
+	"scene" : {
+		"extra" : [
+			{
+				"type" : "studio_render_settings",
+				"render_options" : {
+					"active_renderer" : "DzIrayRenderer",
+					"renderType" : "Software",
+					"renderStyle" : "Normal",
+					"openGLPasses" : 4,
+					"useGLSL" : false,
+					"isCurrentFrameRender" : true,
+					"doubleSided" : true,
+					"render_elements" : [
+						{
+							"id" : "General Render",
+							"channels" : [
+							]
+						},
+						{
+							"id" : "NVIDIA Iray Render Options",
+							"channels" : [
+							],
+							"children" : [
+								{
+									"id" : "NVIDIA Iray Photoreal Options",
+									"channels" : [
+									]
+								},
+								{
+									"id" : "NVIDIA Iray Interactive Options",
+									"channels" : [
+									]
+								},
+								{
+									"id" : "NVIDIA Iray Tonemapper Options",
+									"channels" : [
+									]
+								},
+								{
+									"id" : "NVIDIA Iray Environment Options",
+									"channels" : [
+										{
+											"channel" : {
+												"id" : "Environment Mode",
+												"type" : "enum",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Mode",
+												"type" : "enum",
+												"current_value" : 2
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Draw Dome",
+												"type" : "bool",
+												"current_value" : true
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Visualize Finite Dome",
+												"type" : "bool",
+												"current_value" : false
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Environment Intensity",
+												"type" : "float",
+												"current_value" : 2
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Environment Map",
+												"type" : "float",
+												"current_value" : 1,
+												"image_file" : "/Runtime/Textures/danieNmarforno/Framed2/DMFrmprobe.hdr"
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Environment Lighting Resolution",
+												"type" : "int",
+												"current_value" : 512
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Environment Lighting Blur",
+												"type" : "bool",
+												"current_value" : false
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Scale Multiplier",
+												"type" : "float",
+												"current_value" : 100
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Radius",
+												"type" : "float",
+												"current_value" : 30
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Origin X",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Origin Y",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Origin Z",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Orientation X",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Orientation Y",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Orientation Z",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Rotation",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Ground Texture Scale",
+												"type" : "float",
+												"current_value" : 100
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Ground Position Mode",
+												"type" : "enum",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Ground Origin X",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Ground Origin Y",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Ground Origin Z",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Draw Ground",
+												"type" : "bool",
+												"current_value" : true
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Ground Shadow Intensity",
+												"type" : "float",
+												"current_value" : 1
+											}
+										}
+									]
+								}
+							],
+							"extra" : [
+								{
+									"type" : "studio/element_data/iray_settings",
+									"render_to_canvases" : false,
+									"canvases" : [
+									],
+									"node_lists" : [
+									]
+								}
+							]
+						}
+					]
+				}
+			}
+		]
+	}
+}
