@@ -1,0 +1,44 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Zeddicuss/Z Private Photoshoot/DSLR%20Camera/Morphs/Zeddicuss/Base/alias_Camera_ZRotate2.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "Zeddicuss",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-10-06T08:43:13Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "ZRotate2",
+			"name" : "ZRotate2",
+			"parent" : "/data/Zeddicuss/Z Private Photoshoot/DSLR%20Camera/Camera.dsf#Camera",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "alias",
+				"name" : "ZRotate2",
+				"label" : "Lens MM - Use filament for Position",
+				"target_channel" : "Lens_MM:/data/Zeddicuss/Z Private Photoshoot/DSLR%20Camera/Camera.dsf#Lens_MM?rotation/z"
+			},
+			"group" : "/General/Transforms/Rotation"
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "ZRotate2-1",
+				"url" : "#ZRotate2"
+			}
+		]
+	}
+}

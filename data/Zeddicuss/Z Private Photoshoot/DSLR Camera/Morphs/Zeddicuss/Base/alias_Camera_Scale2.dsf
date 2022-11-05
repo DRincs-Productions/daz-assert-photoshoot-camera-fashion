@@ -1,0 +1,44 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Zeddicuss/Z Private Photoshoot/DSLR%20Camera/Morphs/Zeddicuss/Base/alias_Camera_Scale2.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "Zeddicuss",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-10-06T08:43:13Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "Scale2",
+			"name" : "Scale2",
+			"parent" : "/data/Zeddicuss/Z Private Photoshoot/DSLR%20Camera/Camera.dsf#Camera",
+			"presentation" : {
+				"type" : "Modifier/Pose",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "alias",
+				"name" : "Scale2",
+				"label" : "Hide Lens",
+				"target_channel" : "Lens:/data/Zeddicuss/Z Private Photoshoot/DSLR%20Camera/Camera.dsf#Lens?scale/general"
+			},
+			"group" : "/General/Transforms/Scale"
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "Scale2-1",
+				"url" : "#Scale2"
+			}
+		]
+	}
+}
