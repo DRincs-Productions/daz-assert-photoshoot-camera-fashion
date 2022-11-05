@@ -1,0 +1,43 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Zeddicuss/Z%20Photo%20Studio/Z%20Floor/UV%20Sets/Zeddicuss/Base/default.dsf",
+		"type" : "uv_set",
+		"contributor" : {
+			"author" : "Zeddicuss",
+			"email" : "",
+			"website" : "www.zed3d.com"
+		},
+		"revision" : "0.0",
+		"modified" : "2017-11-21T13:00:27Z"
+	},
+	"uv_set_library" : [
+		{
+			"id" : "default",
+			"name" : "default",
+			"label" : "Default UVs",
+			"vertex_count" : 6,
+			"uvs" : {
+				"count" : 6,
+				"values" : [
+					[ 0, 1 ],
+					[ 1, 1 ],
+					[ 1, 0 ],
+					[ 0, 0 ],
+					[ 0.5, 0 ],
+					[ 0.5, 1 ]
+				]
+			},
+			"polygon_vertex_indices" : [
+			]
+		}
+	],
+	"scene" : {
+		"uvs" : [
+			{
+				"id" : "default-1",
+				"url" : "#default"
+			}
+		]
+	}
+}

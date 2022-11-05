@@ -1,0 +1,593 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Zeddicuss/Z%20Photo%20Studio/Z%20Back%20Wall/Back%20Wall.dsf",
+		"type" : "prop",
+		"contributor" : {
+			"author" : "Zeddicuss",
+			"email" : "",
+			"website" : "www.zed3d.com"
+		},
+		"revision" : "0.0",
+		"modified" : "2017-11-21T12:52:47Z"
+	},
+	"geometry_library" : [
+		{
+			"id" : "Back Wall-1",
+			"name" : "Back Wall",
+			"type" : "polygon_mesh",
+			"vertices" : {
+				"count" : 89,
+				"values" : [
+					[ -419.8998, 0, -439.3948 ],
+					[ 419.8998, 0, -439.3948 ],
+					[ -419.8998, 388.1933, -439.3948 ],
+					[ 419.8998, 388.1933, -439.3948 ],
+					[ 419.8998, 202.8505, -439.3948 ],
+					[ -419.8998, 202.8505, -439.3948 ],
+					[ 0, 0, -439.3948 ],
+					[ 0, 202.8505, -439.3948 ],
+					[ 0, 525.9628, -439.3948 ],
+					[ 424.2158, -0.1706807, -435.7738 ],
+					[ -424.2158, -0.1706807, -435.7738 ],
+					[ -424.2158, -0.1706807, -439.9483 ],
+					[ 424.2158, -0.1706807, -439.9483 ],
+					[ 424.2158, 11.92375, -435.7738 ],
+					[ -424.2158, 11.92375, -435.7738 ],
+					[ -424.2158, 11.92375, -439.9483 ],
+					[ 424.2158, 11.92375, -439.9483 ],
+					[ 424.2158, -0.1706807, -439.4338 ],
+					[ -424.2158, -0.1706807, -439.4338 ],
+					[ 424.2158, -0.1706807, -436.2883 ],
+					[ -424.2158, -0.1706807, -436.2883 ],
+					[ -424.2158, 11.92375, -439.4338 ],
+					[ -424.2158, 11.92375, -436.2883 ],
+					[ 424.2158, 11.92375, -439.4338 ],
+					[ 424.2158, 11.92375, -436.2883 ],
+					[ 424.2158, 0.6827545, -435.7738 ],
+					[ -424.2158, 0.6827545, -435.7738 ],
+					[ 424.2158, 11.07031, -435.7738 ],
+					[ -424.2158, 11.07031, -435.7738 ],
+					[ -424.2158, 0.6827545, -439.9483 ],
+					[ 424.2158, 0.6827545, -439.9483 ],
+					[ -424.2158, 11.07031, -439.9483 ],
+					[ 424.2158, 11.07031, -439.9483 ],
+					[ -424.2158, 0.6827545, -439.4338 ],
+					[ -424.2158, 11.07031, -439.4338 ],
+					[ -424.2158, 0.6827545, -436.2883 ],
+					[ -424.2158, 11.07031, -436.2883 ],
+					[ 424.2158, 0.6827545, -439.4338 ],
+					[ 424.2158, 11.07031, -439.4338 ],
+					[ 424.2158, 0.6827545, -436.2883 ],
+					[ 424.2158, 11.07031, -436.2883 ],
+					[ 419.973, -0.1706807, -439.4338 ],
+					[ 419.973, -0.1706807, -439.9483 ],
+					[ -419.973, -0.1706807, -439.4338 ],
+					[ -419.973, -0.1706807, -439.9483 ],
+					[ 419.973, -0.1706807, -436.2883 ],
+					[ -419.973, -0.1706807, -436.2883 ],
+					[ 419.973, -0.1706807, -435.7738 ],
+					[ -419.973, -0.1706807, -435.7738 ],
+					[ 419.973, 11.92375, -439.9483 ],
+					[ 419.973, 11.92375, -439.4338 ],
+					[ -419.973, 11.92375, -439.9483 ],
+					[ -419.973, 11.92375, -439.4338 ],
+					[ 419.973, 11.92375, -436.2883 ],
+					[ -419.973, 11.92375, -436.2883 ],
+					[ 419.973, 11.92375, -435.7738 ],
+					[ -419.973, 11.92375, -435.7738 ],
+					[ 419.973, 0.6827545, -435.7738 ],
+					[ -419.973, 0.6827545, -435.7738 ],
+					[ 419.973, 11.07031, -435.7738 ],
+					[ -419.973, 11.07031, -435.7738 ],
+					[ 419.973, 0.6827545, -439.9483 ],
+					[ -419.973, 0.6827545, -439.9483 ],
+					[ 419.973, 11.07031, -439.9483 ],
+					[ -419.973, 11.07031, -439.9483 ],
+					[ 377.9764, -0.1706807, -439.4338 ],
+					[ 377.9764, -0.1706807, -439.9483 ],
+					[ -377.9764, -0.1706807, -439.4338 ],
+					[ -377.9764, -0.1706807, -439.9483 ],
+					[ 377.9764, -0.1706807, -436.2883 ],
+					[ -377.9764, -0.1706807, -436.2883 ],
+					[ 377.9764, -0.1706807, -435.7738 ],
+					[ -377.9764, -0.1706807, -435.7738 ],
+					[ 377.9764, 11.92375, -439.9483 ],
+					[ 377.9764, 11.92375, -439.4338 ],
+					[ -377.9764, 11.92375, -439.9483 ],
+					[ -377.9764, 11.92375, -439.4338 ],
+					[ 377.9764, 11.92375, -436.2883 ],
+					[ -377.9764, 11.92375, -436.2883 ],
+					[ 377.9764, 11.92375, -435.7738 ],
+					[ -377.9764, 11.92375, -435.7738 ],
+					[ 377.9764, 0.6827545, -435.7738 ],
+					[ -377.9764, 0.6827545, -435.7738 ],
+					[ 377.9764, 11.07031, -435.7738 ],
+					[ -377.9764, 11.07031, -435.7738 ],
+					[ 377.9764, 0.6827545, -439.9483 ],
+					[ -377.9764, 0.6827545, -439.9483 ],
+					[ 377.9764, 11.07031, -439.9483 ],
+					[ -377.9764, 11.07031, -439.9483 ]
+				]
+			},
+			"polygon_groups" : {
+				"count" : 1,
+				"values" : [
+					"Default"
+				]
+			},
+			"polygon_material_groups" : {
+				"count" : 2,
+				"values" : [
+					"Default",
+					"Skirting"
+				]
+			},
+			"polylist" : {
+				"count" : 82,
+				"values" : [
+					[ 0, 0, 0, 6, 7, 5 ],
+					[ 0, 0, 6, 1, 4, 7 ],
+					[ 0, 0, 5, 7, 8, 2 ],
+					[ 0, 0, 7, 4, 3, 8 ],
+					[ 0, 1, 18, 33, 29, 11 ],
+					[ 0, 1, 33, 34, 31, 29 ],
+					[ 0, 1, 34, 21, 15, 31 ],
+					[ 0, 1, 20, 35, 33, 18 ],
+					[ 0, 1, 35, 36, 34, 33 ],
+					[ 0, 1, 36, 22, 21, 34 ],
+					[ 0, 1, 10, 26, 35, 20 ],
+					[ 0, 1, 26, 28, 36, 35 ],
+					[ 0, 1, 28, 14, 22, 36 ],
+					[ 0, 1, 12, 30, 37, 17 ],
+					[ 0, 1, 30, 32, 38, 37 ],
+					[ 0, 1, 32, 16, 23, 38 ],
+					[ 0, 1, 17, 37, 39, 19 ],
+					[ 0, 1, 37, 38, 40, 39 ],
+					[ 0, 1, 38, 23, 24, 40 ],
+					[ 0, 1, 19, 39, 25, 9 ],
+					[ 0, 1, 39, 40, 27, 25 ],
+					[ 0, 1, 40, 24, 13, 27 ],
+					[ 0, 1, 17, 41, 42, 12 ],
+					[ 0, 1, 43, 18, 11, 44 ],
+					[ 0, 1, 19, 45, 41, 17 ],
+					[ 0, 1, 46, 20, 18, 43 ],
+					[ 0, 1, 9, 47, 45, 19 ],
+					[ 0, 1, 48, 10, 20, 46 ],
+					[ 0, 1, 16, 49, 50, 23 ],
+					[ 0, 1, 51, 15, 21, 52 ],
+					[ 0, 1, 23, 50, 53, 24 ],
+					[ 0, 1, 52, 21, 22, 54 ],
+					[ 0, 1, 24, 53, 55, 13 ],
+					[ 0, 1, 54, 22, 14, 56 ],
+					[ 0, 1, 25, 57, 47, 9 ],
+					[ 0, 1, 58, 26, 10, 48 ],
+					[ 0, 1, 27, 59, 57, 25 ],
+					[ 0, 1, 60, 28, 26, 58 ],
+					[ 0, 1, 13, 55, 59, 27 ],
+					[ 0, 1, 56, 14, 28, 60 ],
+					[ 0, 1, 12, 42, 61, 30 ],
+					[ 0, 1, 44, 11, 29, 62 ],
+					[ 0, 1, 30, 61, 63, 32 ],
+					[ 0, 1, 62, 29, 31, 64 ],
+					[ 0, 1, 32, 63, 49, 16 ],
+					[ 0, 1, 64, 31, 15, 51 ],
+					[ 0, 1, 41, 65, 66, 42 ],
+					[ 0, 1, 65, 67, 68, 66 ],
+					[ 0, 1, 67, 43, 44, 68 ],
+					[ 0, 1, 45, 69, 65, 41 ],
+					[ 0, 1, 69, 70, 67, 65 ],
+					[ 0, 1, 70, 46, 43, 67 ],
+					[ 0, 1, 47, 71, 69, 45 ],
+					[ 0, 1, 71, 72, 70, 69 ],
+					[ 0, 1, 72, 48, 46, 70 ],
+					[ 0, 1, 49, 73, 74, 50 ],
+					[ 0, 1, 73, 75, 76, 74 ],
+					[ 0, 1, 75, 51, 52, 76 ],
+					[ 0, 1, 50, 74, 77, 53 ],
+					[ 0, 1, 74, 76, 78, 77 ],
+					[ 0, 1, 76, 52, 54, 78 ],
+					[ 0, 1, 53, 77, 79, 55 ],
+					[ 0, 1, 77, 78, 80, 79 ],
+					[ 0, 1, 78, 54, 56, 80 ],
+					[ 0, 1, 57, 81, 71, 47 ],
+					[ 0, 1, 81, 82, 72, 71 ],
+					[ 0, 1, 82, 58, 48, 72 ],
+					[ 0, 1, 59, 83, 81, 57 ],
+					[ 0, 1, 83, 84, 82, 81 ],
+					[ 0, 1, 84, 60, 58, 82 ],
+					[ 0, 1, 55, 79, 83, 59 ],
+					[ 0, 1, 79, 80, 84, 83 ],
+					[ 0, 1, 80, 56, 60, 84 ],
+					[ 0, 1, 42, 66, 85, 61 ],
+					[ 0, 1, 66, 68, 86, 85 ],
+					[ 0, 1, 68, 44, 62, 86 ],
+					[ 0, 1, 61, 85, 87, 63 ],
+					[ 0, 1, 85, 86, 88, 87 ],
+					[ 0, 1, 86, 62, 64, 88 ],
+					[ 0, 1, 63, 87, 73, 49 ],
+					[ 0, 1, 87, 88, 75, 73 ],
+					[ 0, 1, 88, 64, 51, 75 ]
+				]
+			},
+			"default_uv_set" : "/data/Zeddicuss/Z%20Photo%20Studio/Z%20Back%20Wall/UV%20Sets/Zeddicuss/Base/default.dsf#default",
+			"extra" : [
+				{
+					"type" : "studio_geometry_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "SubDIALevel",
+								"type" : "int",
+								"label" : "View SubD Level",
+								"visible" : false,
+								"value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDRenderLevel",
+								"type" : "int",
+								"label" : "Render SubD Level (Minimum)",
+								"visible" : false,
+								"value" : 0,
+								"min" : 0,
+								"max" : 3,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDAlgorithmControl",
+								"type" : "enum",
+								"label" : "SubDivision Algorithm",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Catmark", "Bilinear", "Loop", "Catmull-Clark (Legacy)" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDEdgeInterpolateLevel",
+								"type" : "enum",
+								"label" : "Edge Interpolation",
+								"visible" : false,
+								"value" : 2,
+								"enum_values" : [ "Soft Corners And Edges", "Sharp Edges and Corners", "Sharp Edges" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						}
+					]
+				}
+			]
+		}
+	],
+	"node_library" : [
+		{
+			"id" : "Back Wall",
+			"name" : "Back Wall",
+			"type" : "node",
+			"label" : "Back Wall",
+			"rotation_order" : "YXZ",
+			"inherits_scale" : true,
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : -0.1706807,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : -437.861,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : 525.9628,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : -437.861,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"presentation" : {
+				"type" : "Prop",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"extra" : [
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Disable Transform",
+								"type" : "bool",
+								"label" : "Disable Transform",
+								"visible" : false,
+								"value" : false
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible in Simulation",
+								"type" : "bool",
+								"label" : "Visible in Simulation",
+								"value" : true
+							},
+							"group" : "/Display/Simulation"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						}
+					]
+				}
+			]
+		}
+	]
+}
