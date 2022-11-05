@@ -1,0 +1,42 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%208/Poses/Z%20Photoshoot%20Builder/%21Photographer%20Position%20Poses/Z%20PSB%20Apply%20Photographer%20Position%20Front%20Left.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "Zeddicuss",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2020-10-15T13:02:41Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection:?translation/x/value",
+				"keys" : [ [ 0, 94.49284 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/z/value",
+				"keys" : [ [ 0, 66.44659 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/y/value",
+				"keys" : [ [ 0, -122.3535 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}
