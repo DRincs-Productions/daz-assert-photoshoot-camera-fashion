@@ -1,0 +1,963 @@
+{
+    "file_version": "0.6.0.0", 
+    "asset_info": {
+        "contributor": {
+            "website": "", 
+            "email": "", 
+            "author": "Zeddicuss"
+        }, 
+        "revision": "1.0", 
+        "type": "preset_pose", 
+        "id": "/C%3A/Users/stoke/Dropbox/Risa-Working-Projects/Z%20Glam%20Magazine%20Cover%20Collection/People/Genesis%208%20Female/Poses/Z%20Glam%20Magazine%20Cover%20Collection/New%20folder/07%20Genesis%208%20Female%20Mirror.duf", 
+        "modified": "2022-01-27T09:19:02Z"
+    }, 
+    "scene": {
+        "animations": [
+            {
+                "url": "name://@selection/lToe:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -60
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lToe:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lToe:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe4_2:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -30
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe4_2:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe4_2:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe4:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -3.038464
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe4:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe4:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe3_2:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -27.89474
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe3_2:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe3_2:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe3:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        6.41549
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe3:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe3:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe2_2:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -24.73684
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe2_2:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe2_2:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe2:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        11.51408
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe2:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe2:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe1_2:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -30
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe1_2:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe1_2:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe1:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        14.56338
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe1:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lSmallToe1:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lBigToe_2:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lBigToe_2:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lBigToe_2:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lBigToe:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lBigToe:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lBigToe:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lMetatarsals:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lMetatarsals:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lMetatarsals:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lFoot:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        53.30282
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lFoot:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        -7.906977
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lFoot:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lShin:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lShin:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lShin:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lThighTwist:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lThighTwist:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lThighTwist:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lThighBend:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -5
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lThighBend:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lThighBend:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        -20.24445
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rToe:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -55.5
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rToe:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rToe:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        -1.5
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe4_2:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -30
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe4_2:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe4_2:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe4:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -1.038464
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe4:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe4:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe3_2:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -27.89474
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe3_2:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe3_2:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe3:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        8.91549
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe3:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe3:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe2_2:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -24.73684
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe2_2:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe2_2:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe2:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        14.01408
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe2:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe2:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe1_2:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -30
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe1_2:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe1_2:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe1:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        15.56338
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe1:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rSmallToe1:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rBigToe_2:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rBigToe_2:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rBigToe_2:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rBigToe:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rBigToe:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rBigToe:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rMetatarsals:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rMetatarsals:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rMetatarsals:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rFoot:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        37.06349
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rFoot:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        20
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rFoot:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rShin:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        14.53846
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rShin:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rShin:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rThighTwist:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rThighTwist:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        18.33333
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rThighTwist:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rThighBend:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -12.77778
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rThighBend:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rThighBend:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        -20.04444
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/pelvis:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/pelvis:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        15
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/pelvis:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/hip:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/hip:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        4.170775
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/hip:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/hip:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        5
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/hip:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        -23.26923
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/hip:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        16.42308
+                    ]
+                ]
+            }
+        ]
+    }
+}
