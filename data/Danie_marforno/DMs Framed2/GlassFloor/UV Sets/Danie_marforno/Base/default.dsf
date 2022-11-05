@@ -1,0 +1,41 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Danie_marforno/DMs%20Framed2/GlassFloor/UV%20Sets/Danie_marforno/Base/default.dsf",
+		"type" : "uv_set",
+		"contributor" : {
+			"author" : "Danie_marforno",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2019-07-19T22:35:51Z"
+	},
+	"uv_set_library" : [
+		{
+			"id" : "default",
+			"name" : "default",
+			"label" : "Default UVs",
+			"vertex_count" : 4,
+			"uvs" : {
+				"count" : 4,
+				"values" : [
+					[ 1, 1 ],
+					[ 0, 0 ],
+					[ 1, 0 ],
+					[ 0, 1 ]
+				]
+			},
+			"polygon_vertex_indices" : [
+			]
+		}
+	],
+	"scene" : {
+		"uvs" : [
+			{
+				"id" : "default-1",
+				"url" : "#default"
+			}
+		]
+	}
+}
