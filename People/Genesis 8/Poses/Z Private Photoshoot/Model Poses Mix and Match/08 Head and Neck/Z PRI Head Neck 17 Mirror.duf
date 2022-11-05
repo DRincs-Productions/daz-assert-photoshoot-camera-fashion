@@ -1,0 +1,1188 @@
+{
+    "file_version": "0.6.0.0", 
+    "asset_info": {
+        "contributor": {
+            "website": "", 
+            "email": "fakeeamil@live.co.uk", 
+            "author": "Chris"
+        }, 
+        "revision": "1.0", 
+        "type": "preset_pose", 
+        "id": "/People/Genesis%202%20Female/Poses/Z_Very_Volatile/08%20Head%20and%20Neck/Z_Head%2BNeck_17_Mirror.duf", 
+        "modified": "2014-11-15T17:27:37Z"
+    }, 
+    "scene": {
+        "animations": [
+            {
+                "url": "name://@selection/rEye:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        -0.12192
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0.09753601
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        -0.12192
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0.09753601
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/upperJaw:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/upperJaw:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/upperJaw:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/upperJaw:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/upperJaw:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/upperJaw:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/upperJaw:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/upperJaw:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/upperJaw:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/upperJaw:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueTip:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueTip:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueTip:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueTip:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueTip:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueTip:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueTip:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueTip:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueTip:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueTip:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue05:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue05:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue05:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue05:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue05:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue05:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue05:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue05:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue05:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue05:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue04:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue04:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue04:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue04:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -14
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue04:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue04:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue04:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue04:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue04:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue04:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue03:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue03:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue03:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue03:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        6
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue03:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue03:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue03:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue03:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue03:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue03:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue02:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue02:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue02:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue02:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        17
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue02:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue02:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue02:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue02:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue02:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue02:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue01:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue01:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue01:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue01:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        19
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue01:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue01:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue01:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue01:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue01:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongue01:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueBase:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueBase:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueBase:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueBase:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueBase:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueBase:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueBase:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueBase:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueBase:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/tongueBase:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lowerJaw:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lowerJaw:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lowerJaw:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lowerJaw:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lowerJaw:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lowerJaw:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lowerJaw:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lowerJaw:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lowerJaw:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lowerJaw:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/head:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/head:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/head:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/head:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -22.56
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/head:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        -0.01986
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/head:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        -3.698
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/head:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/head:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/head:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/head:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/neck:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/neck:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/neck:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/neck:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -22.56
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/neck:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        -0.01986
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/neck:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        -3.698
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/neck:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/neck:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/neck:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/neck:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }
+        ]
+    }
+}
