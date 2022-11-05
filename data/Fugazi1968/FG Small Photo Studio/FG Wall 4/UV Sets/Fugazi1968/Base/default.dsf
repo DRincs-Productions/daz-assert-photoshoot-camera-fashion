@@ -1,0 +1,41 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Fugazi1968/FG%20Small%20Photo%20Studio/FG%20Wall%204/UV%20Sets/Fugazi1968/Base/default.dsf",
+		"type" : "uv_set",
+		"contributor" : {
+			"author" : "abaajoan",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-11-02T06:54:16Z"
+	},
+	"uv_set_library" : [
+		{
+			"id" : "default",
+			"name" : "default",
+			"label" : "Default UVs",
+			"vertex_count" : 4,
+			"uvs" : {
+				"count" : 4,
+				"values" : [
+					[ 0.9951, 0.4473 ],
+					[ 0.0049, 0.4473 ],
+					[ 0.0049, 0.0049 ],
+					[ 0.9951, 0.0049 ]
+				]
+			},
+			"polygon_vertex_indices" : [
+			]
+		}
+	],
+	"scene" : {
+		"uvs" : [
+			{
+				"id" : "default-1",
+				"url" : "#default"
+			}
+		]
+	}
+}

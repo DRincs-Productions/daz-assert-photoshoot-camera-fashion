@@ -1,0 +1,61 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Fugazi1968/FG%20Small%20Photo%20Studio/FG%20Elevated%20Shooting%20Floor/UV%20Sets/Fugazi1968/Base/default.dsf",
+		"type" : "uv_set",
+		"contributor" : {
+			"author" : "abaajoan",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-11-02T07:02:26Z"
+	},
+	"uv_set_library" : [
+		{
+			"id" : "default",
+			"name" : "default",
+			"label" : "Default UVs",
+			"vertex_count" : 8,
+			"uvs" : {
+				"count" : 16,
+				"values" : [
+					[ 0.0049, 0.0049 ],
+					[ 0.7907, 0.0049 ],
+					[ 0.7907, 0.8362 ],
+					[ 0.0049, 0.8362 ],
+					[ 0.0049, 0.9519 ],
+					[ 0.7907, 0.9519 ],
+					[ 0.8362, 0.846 ],
+					[ 0.0049, 0.899 ],
+					[ 0.7907, 0.9951 ],
+					[ 0.0049, 0.9951 ],
+					[ 0.0049, 0.846 ],
+					[ 0.8362, 0.8892 ],
+					[ 0.0049, 0.8892 ],
+					[ 0.8362, 0.899 ],
+					[ 0.8362, 0.9422 ],
+					[ 0.0049, 0.9422 ]
+				]
+			},
+			"polygon_vertex_indices" : [
+				[ 1, 0, 9 ],
+				[ 3, 0, 14 ],
+				[ 1, 1, 8 ],
+				[ 2, 1, 12 ],
+				[ 2, 2, 11 ],
+				[ 3, 3, 15 ],
+				[ 3, 4, 13 ],
+				[ 2, 5, 10 ]
+			]
+		}
+	],
+	"scene" : {
+		"uvs" : [
+			{
+				"id" : "default-1",
+				"url" : "#default"
+			}
+		]
+	}
+}
