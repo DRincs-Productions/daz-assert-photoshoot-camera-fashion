@@ -1,0 +1,1194 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%208%20Female/Poses/Well%20Heeled%20Genesis%208%20Female/Standing%2001R.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "Khory",
+			"email" : "",
+			"website" : "http://www.daz3d.com/khory"
+		},
+		"revision" : "1.0",
+		"modified" : "2017-06-08T16:07:32Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection/pelvis:?rotation/x/value",
+				"keys" : [ [ 0, -24.7191 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThighBend:?rotation/x/value",
+				"keys" : [ [ 0, -30.73034 ] ]
+			},
+			{
+				"url" : "name://@selection/lThighBend:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThighBend:?rotation/z/value",
+				"keys" : [ [ 0, -2.5 ] ]
+			},
+			{
+				"url" : "name://@selection/lThighTwist:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThighTwist:?rotation/y/value",
+				"keys" : [ [ 0, -9.269661 ] ]
+			},
+			{
+				"url" : "name://@selection/lThighTwist:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?rotation/x/value",
+				"keys" : [ [ 0, 62.34884 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?rotation/y/value",
+				"keys" : [ [ 0, -6.123596 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?rotation/x/value",
+				"keys" : [ [ 0, 7.248062 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMetatarsals:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMetatarsals:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMetatarsals:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?rotation/x/value",
+				"keys" : [ [ 0, -39.84496 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThighBend:?rotation/x/value",
+				"keys" : [ [ 0, -46.74157 ] ]
+			},
+			{
+				"url" : "name://@selection/rThighBend:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThighBend:?rotation/z/value",
+				"keys" : [ [ 0, 10.94186 ] ]
+			},
+			{
+				"url" : "name://@selection/rThighTwist:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThighTwist:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThighTwist:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?rotation/x/value",
+				"keys" : [ [ 0, 23.74419 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?rotation/x/value",
+				"keys" : [ [ 0, 54.49612 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMetatarsals:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMetatarsals:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMetatarsals:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?rotation/x/value",
+				"keys" : [ [ 0, -39.84496 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomenLower:?rotation/x/value",
+				"keys" : [ [ 0, 27.1124 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomenLower:?rotation/y/value",
+				"keys" : [ [ 0, -3.876406 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomenLower:?rotation/z/value",
+				"keys" : [ [ 0, 2.35955 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomenUpper:?rotation/x/value",
+				"keys" : [ [ 0, 23.93258 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomenUpper:?rotation/y/value",
+				"keys" : [ [ 0, -9.662922 ] ]
+			},
+			{
+				"url" : "name://@selection/abdomenUpper:?rotation/z/value",
+				"keys" : [ [ 0, 17.52809 ] ]
+			},
+			{
+				"url" : "name://@selection/chestLower:?rotation/x/value",
+				"keys" : [ [ 0, -2.75281 ] ]
+			},
+			{
+				"url" : "name://@selection/chestLower:?rotation/y/value",
+				"keys" : [ [ 0, -4.044945 ] ]
+			},
+			{
+				"url" : "name://@selection/chestLower:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/chestUpper:?rotation/x/value",
+				"keys" : [ [ 0, -9.269663 ] ]
+			},
+			{
+				"url" : "name://@selection/chestUpper:?rotation/y/value",
+				"keys" : [ [ 0, -3.033709 ] ]
+			},
+			{
+				"url" : "name://@selection/chestUpper:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?rotation/x/value",
+				"keys" : [ [ 0, 11.39535 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?rotation/y/value",
+				"keys" : [ [ 0, -11.83333 ] ]
+			},
+			{
+				"url" : "name://@selection/lCollar:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldrBend:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldrBend:?rotation/y/value",
+				"keys" : [ [ 0, -69.55056 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldrBend:?rotation/z/value",
+				"keys" : [ [ 0, 30.73256 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldrTwist:?rotation/x/value",
+				"keys" : [ [ 0, 65.07753 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldrTwist:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lShldrTwist:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lForearmBend:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lForearmBend:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lForearmBend:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lForearmTwist:?rotation/x/value",
+				"keys" : [ [ 0, -47.02247 ] ]
+			},
+			{
+				"url" : "name://@selection/lForearmTwist:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lForearmTwist:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?rotation/x/value",
+				"keys" : [ [ 0, 7.75281 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?rotation/y/value",
+				"keys" : [ [ 0, 2.955055 ] ]
+			},
+			{
+				"url" : "name://@selection/lHand:?rotation/z/value",
+				"keys" : [ [ 0, 21.85393 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?rotation/x/value",
+				"keys" : [ [ 0, 4.196629 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?rotation/y/value",
+				"keys" : [ [ 0, 6.436047 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb1:?rotation/z/value",
+				"keys" : [ [ 0, -8.13764 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?rotation/y/value",
+				"keys" : [ [ 0, 8.875969 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?rotation/y/value",
+				"keys" : [ [ 0, 3.483147 ] ]
+			},
+			{
+				"url" : "name://@selection/lThumb3:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?rotation/y/value",
+				"keys" : [ [ 0, 1.758427 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal1:?rotation/z/value",
+				"keys" : [ [ 0, 1.02809 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?rotation/y/value",
+				"keys" : [ [ 0, 0.5393257 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex1:?rotation/z/value",
+				"keys" : [ [ 0, -39.7907 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex2:?rotation/z/value",
+				"keys" : [ [ 0, 2.769663 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lIndex3:?rotation/z/value",
+				"keys" : [ [ 0, 4.258428 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal2:?rotation/z/value",
+				"keys" : [ [ 0, -1.707865 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?rotation/y/value",
+				"keys" : [ [ 0, 1.348314 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid1:?rotation/z/value",
+				"keys" : [ [ 0, -25.74419 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid2:?rotation/z/value",
+				"keys" : [ [ 0, -10.66292 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMid3:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal3:?rotation/y/value",
+				"keys" : [ [ 0, -2.05618 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal3:?rotation/z/value",
+				"keys" : [ [ 0, -3.460674 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?rotation/y/value",
+				"keys" : [ [ 0, -1.213483 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing1:?rotation/z/value",
+				"keys" : [ [ 0, -29.76744 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing2:?rotation/z/value",
+				"keys" : [ [ 0, -28.75281 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lRing3:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal4:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal4:?rotation/y/value",
+				"keys" : [ [ 0, -4 ] ]
+			},
+			{
+				"url" : "name://@selection/lCarpal4:?rotation/z/value",
+				"keys" : [ [ 0, -4 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?rotation/y/value",
+				"keys" : [ [ 0, -5.764044 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky1:?rotation/z/value",
+				"keys" : [ [ 0, -56.17977 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky2:?rotation/z/value",
+				"keys" : [ [ 0, -20.20786 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPinky3:?rotation/z/value",
+				"keys" : [ [ 0, -7.808989 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?rotation/x/value",
+				"keys" : [ [ 0, 30 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?rotation/y/value",
+				"keys" : [ [ 0, 12.23034 ] ]
+			},
+			{
+				"url" : "name://@selection/rCollar:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldrBend:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldrBend:?rotation/y/value",
+				"keys" : [ [ 0, 20.35955 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldrBend:?rotation/z/value",
+				"keys" : [ [ 0, 20.43024 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldrTwist:?rotation/x/value",
+				"keys" : [ [ 0, 7.422478 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldrTwist:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rShldrTwist:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rForearmBend:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rForearmBend:?rotation/y/value",
+				"keys" : [ [ 0, 80.2191 ] ]
+			},
+			{
+				"url" : "name://@selection/rForearmBend:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rForearmTwist:?rotation/x/value",
+				"keys" : [ [ 0, 25.31008 ] ]
+			},
+			{
+				"url" : "name://@selection/rForearmTwist:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rForearmTwist:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?rotation/x/value",
+				"keys" : [ [ 0, -0.8969507 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?rotation/y/value",
+				"keys" : [ [ 0, 15.63566 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?rotation/z/value",
+				"keys" : [ [ 0, 1.476746 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?rotation/y/value",
+				"keys" : [ [ 0, -3.930233 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?rotation/z/value",
+				"keys" : [ [ 0, 1.240311 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?rotation/y/value",
+				"keys" : [ [ 0, -5.155039 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?rotation/y/value",
+				"keys" : [ [ 0, -2.129213 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?rotation/z/value",
+				"keys" : [ [ 0, -1.213483 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?rotation/y/value",
+				"keys" : [ [ 0, 1.60465 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?rotation/z/value",
+				"keys" : [ [ 0, -11.88203 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?rotation/z/value",
+				"keys" : [ [ 0, 11.12791 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?rotation/z/value",
+				"keys" : [ [ 0, 3.875969 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?rotation/z/value",
+				"keys" : [ [ 0, -1.623596 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?rotation/y/value",
+				"keys" : [ [ 0, 6.418604 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?rotation/z/value",
+				"keys" : [ [ 0, -8.414734 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?rotation/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?rotation/z/value",
+				"keys" : [ [ 0, 10.69768 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?rotation/z/value",
+				"keys" : [ [ 0, -1.432584 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?rotation/y/value",
+				"keys" : [ [ 0, 6.604651 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?rotation/z/value",
+				"keys" : [ [ 0, -11.25969 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?rotation/z/value",
+				"keys" : [ [ 0, 9.876404 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?rotation/z/value",
+				"keys" : [ [ 0, 13.25581 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?rotation/z/value",
+				"keys" : [ [ 0, -2.426966 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?rotation/y/value",
+				"keys" : [ [ 0, -2.88372 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?rotation/z/value",
+				"keys" : [ [ 0, 2.763565 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?rotation/z/value",
+				"keys" : [ [ 0, 7.747192 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?rotation/z/value",
+				"keys" : [ [ 0, 5.081398 ] ]
+			},
+			{
+				"url" : "name://@selection/neckLower:?rotation/x/value",
+				"keys" : [ [ 0, -17.69663 ] ]
+			},
+			{
+				"url" : "name://@selection/neckLower:?rotation/y/value",
+				"keys" : [ [ 0, -5.932585 ] ]
+			},
+			{
+				"url" : "name://@selection/neckLower:?rotation/z/value",
+				"keys" : [ [ 0, 27.86517 ] ]
+			},
+			{
+				"url" : "name://@selection/neckUpper:?rotation/x/value",
+				"keys" : [ [ 0, -2.360464 ] ]
+			},
+			{
+				"url" : "name://@selection/neckUpper:?rotation/y/value",
+				"keys" : [ [ 0, -13.30233 ] ]
+			},
+			{
+				"url" : "name://@selection/neckUpper:?rotation/z/value",
+				"keys" : [ [ 0, -0.6976748 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?rotation/x/value",
+				"keys" : [ [ 0, -15.31008 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?rotation/y/value",
+				"keys" : [ [ 0, -13.30233 ] ]
+			},
+			{
+				"url" : "name://@selection/head:?rotation/z/value",
+				"keys" : [ [ 0, 1.085272 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lEye:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rEye:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lEar:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lEar:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lEar:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rEar:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rEar:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rEar:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?rotation/y/value",
+				"keys" : [ [ 0, -3.669102 ] ]
+			},
+			{
+				"url" : "name://@selection/lPectoral:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?rotation/y/value",
+				"keys" : [ [ 0, 3.549999 ] ]
+			},
+			{
+				"url" : "name://@selection/rPectoral:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?rotation/x/value",
+				"keys" : [ [ 0, -6.522476 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?rotation/y/value",
+				"keys" : [ [ 0, 90 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?rotation/z/value",
+				"keys" : [ [ 0, -32.35954 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?translation/y/value",
+				"keys" : [ [ 0, -5.662391 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}
