@@ -1,0 +1,72 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/Props/Z Private Photoshoot/Materials/Stool%20Shine%20Mid.duf",
+		"type" : "preset_material",
+		"contributor" : {
+			"author" : "Zeddicuss",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-09-23T10:55:15Z"
+	},
+	"material_library" : [
+		{
+			"id" : "Stool",
+			"extra" : [
+				{
+					"type" : "studio/material/uber_iray",
+					"version" : "1.1.0.0"
+				},
+				{
+					"type" : "studio_material_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Glossy Layered Weight",
+								"type" : "float",
+								"label" : "Glossy Layered Weight",
+								"value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"default_image_gamma" : 1,
+								"mappable" : true
+							},
+							"group" : "/Base/Glossy/Reflection",
+							"presentation" : {
+								"type" : "",
+								"label" : "",
+								"description" : "",
+								"icon_large" : "",
+								"colors" : [ [ 0.345098, 0.5019608, 0.6588235 ], [ 1, 1, 1 ] ]
+							}
+						}
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"materials" : [
+			{
+				"url" : "#Stool",
+				"groups" : [ "Stool" ],
+				"extra" : [
+					{
+						"type" : "studio/material/uber_iray",
+						"version" : "1.1.0.0"
+					}
+				]
+			}
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection#materials/Stool:?extra/studio_material_channels/channels/Glossy%20Layered%20Weight/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			}
+		]
+	}
+}

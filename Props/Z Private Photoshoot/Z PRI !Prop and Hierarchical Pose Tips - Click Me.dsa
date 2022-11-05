@@ -1,0 +1,3 @@
+// DAZ Studio version 4.8.0.18 filetype DAZ Script
+var oFileInfo = new DzFileInfo( getScriptFileName() );
+App.showURL( String("file:///%1/%2.pdf").arg( oFileInfo.path() ).arg( oFileInfo.baseName() ) );

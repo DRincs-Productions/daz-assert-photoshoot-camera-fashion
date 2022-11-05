@@ -1,0 +1,113 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/Props/Z Private Photoshoot/Materials/Stool%20Grey.duf",
+		"type" : "preset_material",
+		"contributor" : {
+			"author" : "Zeddicuss",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-09-23T10:51:10Z"
+	},
+	"image_library" : [
+		{
+			"id" : "Leather Cube Chair SP_Leather_Cube_BaseColor.jpg",
+			"name" : "Leather Cube Chair SP_Leather_Cube_BaseColor.jpg",
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/Z Private Photoshoot/Leather%20Cube%20Chair%20SP_Leather_Cube_BaseColor.jpg",
+					"label" : "Leather Cube Chair SP_Leather_Cube_BaseColor.jpg"
+				}
+			]
+		}
+	],
+	"material_library" : [
+		{
+			"id" : "Stool",
+			"diffuse" : {
+				"channel" : {
+					"id" : "diffuse",
+					"type" : "float_color",
+					"name" : "Diffuse Color",
+					"label" : "Base Color",
+					"value" : [ 0.7529412, 0.7529412, 0.7529412 ],
+					"min" : 0,
+					"max" : 1,
+					"clamped" : true,
+					"step_size" : 1,
+					"default_image_gamma" : 0,
+					"mappable" : true
+				},
+				"group" : "/Base/Diffuse/Reflection",
+				"presentation" : {
+					"type" : "",
+					"label" : "",
+					"description" : "",
+					"icon_large" : "",
+					"colors" : [ [ 0.345098, 0.5019608, 0.6588235 ], [ 0.5019608, 0.5019608, 0.5019608 ] ]
+				}
+			},
+			"extra" : [
+				{
+					"type" : "studio/material/uber_iray",
+					"version" : "1.1.0.0"
+				}
+			]
+		}
+	],
+	"scene" : {
+		"materials" : [
+			{
+				"url" : "#Stool",
+				"groups" : [ "Stool" ],
+				"extra" : [
+					{
+						"type" : "studio/material/uber_iray",
+						"version" : "1.1.0.0"
+					}
+				]
+			}
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection#materials/Stool:?diffuse/value",
+				"keys" : [ [ 0, [ 0.2980392, 0.2980392, 0.2901961 ] ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Stool:?diffuse/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/Z Private Photoshoot/Leather%20Cube%20Chair%20SP_Leather_Cube_BaseColor.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Stool:?diffuse/image_modification/scale",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Stool:?diffuse/image_modification/offset",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Stool:?diffuse/image_modification/invert",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Stool:?diffuse/image_modification/horizontal_tiles",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Stool:?diffuse/image_modification/horizontal_tiling_offset",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Stool:?diffuse/image_modification/vertical_tiles",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Stool:?diffuse/image_modification/vertical_tiling_offset",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

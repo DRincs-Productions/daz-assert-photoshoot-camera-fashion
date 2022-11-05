@@ -1,0 +1,68 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/Props/Z Private Photoshoot/Materials/Stool%20Pink.duf",
+		"type" : "preset_material",
+		"contributor" : {
+			"author" : "Zeddicuss",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-09-23T10:56:14Z"
+	},
+	"material_library" : [
+		{
+			"id" : "Stool",
+			"diffuse" : {
+				"channel" : {
+					"id" : "diffuse",
+					"type" : "float_color",
+					"name" : "Diffuse Color",
+					"label" : "Base Color",
+					"value" : [ 0.7529412, 0.7529412, 0.7529412 ],
+					"min" : 0,
+					"max" : 1,
+					"clamped" : true,
+					"step_size" : 1,
+					"default_image_gamma" : 0,
+					"mappable" : true
+				},
+				"group" : "/Base/Diffuse/Reflection",
+				"presentation" : {
+					"type" : "",
+					"label" : "",
+					"description" : "",
+					"icon_large" : "",
+					"colors" : [ [ 0.345098, 0.5019608, 0.6588235 ], [ 0.5019608, 0.5019608, 0.5019608 ] ]
+				}
+			},
+			"extra" : [
+				{
+					"type" : "studio/material/uber_iray",
+					"version" : "1.1.0.0"
+				}
+			]
+		}
+	],
+	"scene" : {
+		"materials" : [
+			{
+				"url" : "#Stool",
+				"groups" : [ "Stool" ],
+				"extra" : [
+					{
+						"type" : "studio/material/uber_iray",
+						"version" : "1.1.0.0"
+					}
+				]
+			}
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection#materials/Stool:?diffuse/value",
+				"keys" : [ [ 0, [ 0.5254902, 0.04705883, 0.3019608 ] ] ]
+			}
+		]
+	}
+}

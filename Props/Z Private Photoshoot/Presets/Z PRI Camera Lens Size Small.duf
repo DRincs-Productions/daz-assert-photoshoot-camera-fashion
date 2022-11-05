@@ -1,0 +1,24 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/Props/Z Private Photoshoot/Presets/Lens%20Size%20Big.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "Zeddicuss",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-09-08T11:02:11Z"
+	},
+	"scene" : {
+		"materials" : [
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection#Lens%20Shrink%20Morph:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			}
+		]
+	}
+}
