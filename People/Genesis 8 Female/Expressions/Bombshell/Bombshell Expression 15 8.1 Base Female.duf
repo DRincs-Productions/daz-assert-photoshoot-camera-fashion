@@ -1,0 +1,714 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/Bombshell/ExpressionFiles/Bombshell%20Expression%2015%208.1%20Base%20Female.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "Skyewolf",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-03-23T21:33:50Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#facs_ctrl_BrowDown:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_BrowDownLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_BrowDownRight_div2:?value/value",
+				"keys" : [ [ 0, 0.516129 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_BrowInnerUp:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_BrowInnerUpLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_BrowInnerUpRight_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_BrowOuterUpLeft_div2:?value/value",
+				"keys" : [ [ 0, 0.3629032 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_BrowOuterUpRight_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_BrowUp:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_CheekPuff:?value/value",
+				"keys" : [ [ 0, 0.1693548 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_CheekPuffLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_CheekPuffRight_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_CheekSquint:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_CheekSquintLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_CheekSquintRight_div2:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_JawForward:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_JawLeft:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_JawOpen:?value/value",
+				"keys" : [ [ 0, 0.08870967 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_JawRecess:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_JawRight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Kanade8%20Angry:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Kanade8%20Smile:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#KPowG8FEx01:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#KPowG8FEx02:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#KPowG8FEx03:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#KPowG8FEx04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#KPowG8FEx05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#KPowG8FEx06:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#KPowG8FEx07:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#KPowG8FEx08:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#KPowG8FEx09:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#KPowG8FEx10:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#KPowG8FEx11:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#KPowG8FEx12:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Pandora%20Expression01:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Pandora%20Expression02:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Pandora%20Expression03:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Pandora%20Expression04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Pandora%20Expression05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Pandora%20Expression06:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20GG%20Big%20Grin:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20GG%20Blow%20Kiss:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20GG%20Smile%20Happy:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20GG%20Smile%20Subtle:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20GG%20Surprised:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20MS%20Frowning:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20MS%20Happy%20Surprise:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20MS%20Mischievous%20Smile:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20MS%20Pouting:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20MS%20Sweet%20Smile:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20RA%20Angry%20Cry%20Genesis%208%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20RA%20Pain%20Genesis%208%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20RA%20Ready%20Genesis%208%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20RA%20Upset%20Genesis%208%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20RA%20Wicked%20Smile%20Genesis%208%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20RA%20Angry%20Cry%20Monique%208:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20RA%20Pain%20Monique%208:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20RA%20Ready%20Monique%208:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20RA%20Upset%20Monique%208:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Z%20RA%20Wicked%20Smile%20Monique%208:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_Afraid:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_Angry:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_Flirting:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_Frown:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_Shock:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_SmileFullFace:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_SmileOpenFullFace:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_Surprised:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Angry%2001%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Angry%2002%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Angry%2003%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Angry%2004%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Angry%2005%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Angry%2006%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Angry%2007%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Angry%2008%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Angry%2009%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Angry%2010%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Happy%2001%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Happy%2002%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Happy%2003%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Happy%2004%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Happy%2005%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Happy%2006%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Happy%2007%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Happy%2008%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Happy%2009%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Happy%2010%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Sad%2001%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Sad%2002%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Sad%2003%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Sad%2004%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Sad%2005%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Sad%2006%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Sad%2007%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Sad%2008%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Sad%2009%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Sad%2010%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Surprised%2001%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Surprised%2002%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Surprised%2003%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Surprised%2004%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Surprised%2005%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Surprised%2006%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Surprised%2007%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Surprised%2008%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Surprised%2009%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#New%20Faces%20-%20Surprised%2010%20Genesis%208.1%20Female:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_EyeBlink:?value/value",
+				"keys" : [ [ 0, 0.1565217 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_EyeBlinkLeft:?value/value",
+				"keys" : [ [ 0, -0.02608691 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_EyeBlinkRight:?value/value",
+				"keys" : [ [ 0, 0.6695653 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_EyeLookSide-Side:?value/value",
+				"keys" : [ [ 0, -0.8956522 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_EyeLookSide-SideLeft:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_EyeLookSide-SideRight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_EyeLookUp-Down:?value/value",
+				"keys" : [ [ 0, 0.3565217 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_EyeLookUp-DownLeft:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_EyeLookUp-DownRight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_EyeSquint:?value/value",
+				"keys" : [ [ 0, 0.2956522 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_EyeSquintLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_EyeSquintRight_div2:?value/value",
+				"keys" : [ [ 0, 0.7043478 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_EyeWide:?value/value",
+				"keys" : [ [ 0, 0.1826087 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_EyeWideLeft:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_EyeWideRight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_EyeLookDownLeft:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_EyeLookDownRight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_EyeLookInLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_EyeLookInRight_div2:?value/value",
+				"keys" : [ [ 0, -1 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_EyeLookOutLeft_div2:?value/value",
+				"keys" : [ [ 0, -0.3391304 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_EyeLookOutRight_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_EyeLookUpLeft:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_EyeLookUpRight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthClose_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_MouthDimple:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthDimpleLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthDimpleRight_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_MouthFrown:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthFrownLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthFrownRight_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthFunnel_div2:?value/value",
+				"keys" : [ [ 0, 0.1652174 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_MouthLowerDown:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthLowerDownLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthLowerDownRight_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_MouthPress:?value/value",
+				"keys" : [ [ 0, 0.226087 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthPressLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthPressRight_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthPucker_div2:?value/value",
+				"keys" : [ [ 0, 0.573913 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthRight_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthRollLower_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthRollUpper_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthShrugLower_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthShrugUpper_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_MouthSmile:?value/value",
+				"keys" : [ [ 0, 0.226087 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthSmileLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthSmileRight_div2:?value/value",
+				"keys" : [ [ 0, 0.1652174 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_MouthStretch:?value/value",
+				"keys" : [ [ 0, 0.2695652 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthStretchLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthStretchRight_div2:?value/value",
+				"keys" : [ [ 0, 0.173913 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_MouthUpperUp:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthUpperUpLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_MouthUpperUpRight_div2:?value/value",
+				"keys" : [ [ 0, 0.06956521 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_TongueIn:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_TongueLeft:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_TongueNarrow:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_TongueOut:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_TongueRight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_TongueTipBend:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_TongueTipNarrow:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_TongueTipWide:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_jnt_TongueUp:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_NasalFlare_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_ctrl_NoseSneer:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_NoseSneerLeft_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#facs_bs_NoseSneerRight_div2:?value/value",
+				"keys" : [ [ 0, 0.4193548 ] ]
+			}
+		]
+	}
+}
