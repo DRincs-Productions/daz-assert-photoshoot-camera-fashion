@@ -1,0 +1,119 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/Light%20Presets/Z%20Photo%20Studio/Z%20Sun%20Dial.duf",
+		"type" : "scene_subset",
+		"contributor" : {
+			"author" : "Zeddicuss",
+			"email" : "",
+			"website" : "www.zed3d.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2017-11-01T12:52:14Z"
+	},
+	"scene" : {
+		"nodes" : [
+			{
+				"id" : "SunDial",
+				"url" : "/data/Zeddicuss/Z%20Photo%20Studio/Sun%20Dial/SunDial.dsf#SunDial",
+				"name" : "SunDial",
+				"label" : "Sun Dial",
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"channels" : [
+							{
+								"channel" : {
+									"id" : "Renderable",
+									"type" : "bool",
+									"current_value" : false
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cast Shadows",
+									"type" : "bool",
+									"current_value" : false
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Show Bones",
+									"type" : "bool",
+									"current_value" : true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id" : "SunBase",
+				"url" : "/data/Zeddicuss/Z%20Photo%20Studio/Sun%20Dial/SunDial.dsf#SunBase",
+				"name" : "SunBase",
+				"label" : "Sun Base",
+				"parent" : "#SunDial",
+				"preview" : {
+					"type" : "bone",
+					"center_point" : [ 0, 0, 0 ],
+					"end_point" : [ 0, 20, 0 ],
+					"rotation_order" : "ZXY"
+				},
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"channels" : [
+							{
+								"channel" : {
+									"id" : "Selectable",
+									"type" : "bool",
+									"current_value" : true
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id" : "SunChain",
+				"url" : "/data/Zeddicuss/Z%20Photo%20Studio/Sun%20Dial/SunDial.dsf#SunChain",
+				"name" : "SunChain",
+				"label" : "Sun Chain",
+				"parent" : "#SunBase",
+				"preview" : {
+					"type" : "bone",
+					"center_point" : [ 0, 0, 0 ],
+					"end_point" : [ 0, 0, -20 ],
+					"rotation_order" : "ZXY"
+				},
+				"rotation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "XRotate",
+						"current_value" : 35.25772
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "YRotate",
+						"current_value" : 94.63916
+					}
+				]
+			},
+			{
+				"id" : "Sun",
+				"url" : "/data/Zeddicuss/Z%20Photo%20Studio/Sun%20Dial/SunDial.dsf#Sun",
+				"name" : "Sun",
+				"label" : "Sun",
+				"parent" : "#SunChain",
+				"preview" : {
+					"type" : "bone",
+					"center_point" : [ 0, 0, -225 ],
+					"end_point" : [ 0, 0, -275 ],
+					"rotation_order" : "ZXY"
+				}
+			}
+		]
+	}
+}

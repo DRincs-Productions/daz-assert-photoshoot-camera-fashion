@@ -1,0 +1,498 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/05.%20Folder/11.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "Zeddicuss",
+			"email" : "",
+			"website" : "www.zeddicuss3d.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2017-11-06T14:14:10Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#PHMBrowCompression_HD_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLBrowInnerUp-Down:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLBrowInnerUp-DownL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLBrowInnerUp-DownR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLBrowOuterUp-Down:?value/value",
+				"keys" : [ [ 0, 0.6923077 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLBrowOuterUp-DownL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLBrowOuterUp-DownR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLBrowSqueeze:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLBrowSqueezeL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLBrowSqueezeR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLBrowUp-Down:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLBrowUp-DownL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLBrowUp-DownR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLCheekCrease:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#ePHMCheekCreaseL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#ePHMCheekCreaseR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLCheekEyeFlex:?value/value",
+				"keys" : [ [ 0, 0.5348837 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLCheekEyeFlexL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLCheekEyeFlexR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLCheekFlex-Slack:?value/value",
+				"keys" : [ [ 0, 0.3953488 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLCheekFlex-SlackL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLCheekFlex-SlackR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLCheeksBalloonPucker:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLCheeksBalloon-SuckIn:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLCheeksBalloon-SuckInL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLCheeksBalloon-SuckInR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#CTRLCheeksDimpleCreaseHD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#PHMCheeksDimpleCreaseL_HD_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#PHMCheeksDimpleCreaseR_HD_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLJawOut-In:?value/value",
+				"keys" : [ [ 0, 0.3023256 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLJawSide-Side:?value/value",
+				"keys" : [ [ 0, 0.08 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLAfraid_HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLAngry_HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLFlirting_HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLFrown_HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLShock_HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLSmileFullFace_HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLSmileOpenFullFace_HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLSurprised_HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyelidsLowerUpDown:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyelidsLowerUpDownL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyelidsLowerUpDownR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyelidsUpperUp-Down:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyelidsUpperUp-DownL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyelidsUpperUp-DownR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyesClosed:?value/value",
+				"keys" : [ [ 0, 0.9593023 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyesClosedL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyesClosedR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyesCrossed:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyesRelax:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyesRelaxL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyesRelaxR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyesSideSide:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyesSquint-Widen:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyesSquint-WidenL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyesSquint-WidenR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLEyesUpDown:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthClosed:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthCornerForward-Back:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthCornerForward-BackL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthCornerForward-BackR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthCornerUp-Down:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthCornerUp-DownL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthCornerUp-DownR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthFrown:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthOpen:?value/value",
+				"keys" : [ [ 0, 0.2 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthSide-Side:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthSmile:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthSmileOpen:?value/value",
+				"keys" : [ [ 0, 0.6860466 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthSmileSimple:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthSmileSimpleL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthSmileSimpleR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthWide-Narrow:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthWide-NarrowL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLMouthWide-NarrowR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipBottomOut-In:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipBottomOut-InL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipBottomOut-InR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipBottomUp-Down:?value/value",
+				"keys" : [ [ 0, -0.255814 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipBottomUp-DownL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipBottomUp-DownR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipTopOut-In:?value/value",
+				"keys" : [ [ 0, -0.255814 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipTopOut-InL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipTopOut-InR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipTopUp-Down:?value/value",
+				"keys" : [ [ 0, -0.02325583 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipTopUp-DownL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipTopUp-DownR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipsClosed-BareTeeth:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipsPart:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipsPartCenter:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipsPuckerWide:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLLipsPucker-Pressed:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLTongueBendTip:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLTongueCurl:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLTongueIn-Out:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLTongueNarrow-Wide:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLTongueRaise-Lower:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLTongueSide-Side:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLTongueUp-Down:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#PHMNoseCompression_HD_div2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLNoseScrunch:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLNoseWrinkle:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLNostrilsFlex:?value/value",
+				"keys" : [ [ 0, 0.9230769 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvAA:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvEE:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvEH:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvER:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvF:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvIH:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvIY:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvK:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvM:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvOW:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvS:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvSH:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvT:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvTH:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvUW:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#eCTRLvW:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

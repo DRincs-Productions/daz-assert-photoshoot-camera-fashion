@@ -1,0 +1,300 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/Light%20Presets/Z%20Photo%20Studio/Z%20Light%20Environment%20Settings.duf",
+		"type" : "preset_render_settings",
+		"contributor" : {
+			"author" : "Zeddicuss",
+			"email" : "",
+			"website" : "www.zed3d.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2017-11-01T12:51:20Z"
+	},
+	"scene" : {
+		"extra" : [
+			{
+				"type" : "studio_render_settings",
+				"render_options" : {
+					"active_renderer" : "DzIrayRenderer",
+					"renderType" : "Software",
+					"renderStyle" : "Normal",
+					"openGLPasses" : 4,
+					"useGLSL" : false,
+					"isCurrentFrameRender" : true,
+					"doubleSided" : true,
+					"render_elements" : [
+						{
+							"id" : "General Render",
+							"channels" : [
+							]
+						},
+						{
+							"id" : "NVIDIA Iray Render Options",
+							"channels" : [
+							],
+							"children" : [
+								{
+									"id" : "NVIDIA Iray Photoreal Options",
+									"channels" : [
+									]
+								},
+								{
+									"id" : "NVIDIA Iray Interactive Options",
+									"channels" : [
+									]
+								},
+								{
+									"id" : "NVIDIA Iray Tonemapper Options",
+									"channels" : [
+									]
+								},
+								{
+									"id" : "NVIDIA Iray Environment Options",
+									"channels" : [
+										{
+											"channel" : {
+												"id" : "Environment Mode",
+												"type" : "enum",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Mode",
+												"type" : "enum",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Draw Dome",
+												"type" : "bool",
+												"current_value" : false
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Environment Intensity",
+												"type" : "float",
+												"current_value" : 1.5
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Environment Map",
+												"type" : "float",
+												"current_value" : 2,
+												"image" : null
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Environment Lighting Resolution",
+												"type" : "int",
+												"current_value" : 512
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Environment Lighting Blur",
+												"type" : "bool",
+												"current_value" : false
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Orientation X",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Orientation Y",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Orientation Z",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Dome Rotation",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Sun Direction",
+												"type" : "node",
+												"node" : "#Sun"
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Sun Disk Intensity",
+												"type" : "float",
+												"current_value" : 1
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Sun Disk Scale",
+												"type" : "float",
+												"current_value" : 4
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Sun Glow Intensity",
+												"type" : "float",
+												"current_value" : 1
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Physically Scaled Sun",
+												"type" : "bool",
+												"current_value" : true
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Haze",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Blue-Red Tint",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Saturation",
+												"type" : "float",
+												"current_value" : 1
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Horizon Height",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Horizon Blur",
+												"type" : "float",
+												"current_value" : 0.1
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Night Color",
+												"type" : "float_color",
+												"current_value" : [ 0, 0, 0 ]
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Multiplier",
+												"type" : "float",
+												"current_value" : 0.10132
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS RGB Unit Conversion",
+												"type" : "float",
+												"current_value" : 1
+											}
+										},
+										{
+											"channel" : {
+												"id" : "SS Ground Color",
+												"type" : "float_color",
+												"value" : [ 0.4, 0.4, 0.4 ],
+												"current_value" : [ 0.4, 0.4, 0.4 ]
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Ground Texture Scale",
+												"type" : "float",
+												"current_value" : 100
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Ground Position Mode",
+												"type" : "enum",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Ground Origin X",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Ground Origin Y",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Ground Origin Z",
+												"type" : "float",
+												"current_value" : 0
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Draw Ground",
+												"type" : "bool",
+												"current_value" : true
+											}
+										},
+										{
+											"channel" : {
+												"id" : "Ground Shadow Intensity",
+												"type" : "float",
+												"current_value" : 1
+											}
+										}
+									]
+								}
+							],
+							"extra" : [
+								{
+									"type" : "studio/element_data/iray_settings",
+									"render_to_canvases" : false,
+									"canvases" : [
+									],
+									"node_lists" : [
+									]
+								}
+							]
+						}
+					]
+				}
+			}
+		]
+	}
+}

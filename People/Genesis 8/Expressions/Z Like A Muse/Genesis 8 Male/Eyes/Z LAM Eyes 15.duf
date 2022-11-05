@@ -1,0 +1,198 @@
+{
+    "file_version": "0.6.0.0", 
+    "asset_info": {
+        "contributor": {
+            "website": "https://www.zeddicuss3d.com/", 
+            "email": "stokescj.1@gmail.com", 
+            "author": "Zeddicuss"
+        }, 
+        "revision": "1.0", 
+        "type": "preset_pose", 
+        "id": "/People/Genesis%203%20Male/Expressions/Z%20So%20Suave/Z_Eyes15.duf", 
+        "modified": "2015-06-30T23:21:43Z"
+    }, 
+    "scene": {
+        "animations": [
+            {
+                "url": "name://@selection/lEye:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -11.62162
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        23.42342
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/lEye:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?translation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?translation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?translation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?rotation/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        -11.62162
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?rotation/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        23.42342
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?rotation/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        0
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?scale/general/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?scale/x/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?scale/y/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }, 
+            {
+                "url": "name://@selection/rEye:?scale/z/value", 
+                "keys": [
+                    [
+                        0, 
+                        1
+                    ]
+                ]
+            }
+        ]
+    }
+}
